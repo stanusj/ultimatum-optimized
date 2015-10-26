@@ -1,8 +1,8 @@
 <?php
 
 $theme = array(		
-		'theme_name' => 'U:optimized',
-		'theme_slug' =>'ultimatum-optimized',
+		'theme_name' => 'child_name:optimized',
+		'theme_slug' =>'child-optimized',
 );
 require_once( get_template_directory() . '/wonderfoundry/wonderworks.php' );
 
